@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06093","Siskiyou","Less than high school graduate",174,63,3857,265,0.0451127819548872,0.0160371585375566
+"2","06093","Siskiyou","High school graduate (includes equivalency)",1097,172,3857,265,0.284417941405237,0.0400847179659598
+"3","06093","Siskiyou","Some college or associate's degree",1907,202,3857,265,0.494425719471092,0.0398608668285708
+"4","06093","Siskiyou","Bachelor's degree or higher",679,140,3857,265,0.176043557168784,0.0342231298922012

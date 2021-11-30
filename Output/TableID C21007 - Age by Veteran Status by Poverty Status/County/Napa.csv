@@ -1,0 +1,23 @@
+"","county","place","age_group","estimate","moe"
+"1","Napa","Napa city","18-64",1246,270
+"2","Napa","Napa city","65+",2282,218
+"3","Napa","American Canyon city","18-64",598,135
+"4","Napa","American Canyon city","65+",392,88
+"5","Napa","Calistoga city","18-64",61,73
+"6","Napa","Calistoga city","65+",218,102
+"7","Napa","St. Helena city","18-64",39,42
+"8","Napa","St. Helena city","65+",218,66
+"9","Napa","Yountville city","18-64",71,41
+"10","Napa","Yountville city","65+",126,44
+"11","Napa","Silverado Resort CDP","18-64",0,12
+"12","Napa","Silverado Resort CDP","65+",157,68
+"13","Napa","Angwin CDP","18-64",65,38
+"14","Napa","Angwin CDP","65+",32,18
+"15","Napa","Deer Park CDP","18-64",7,9
+"16","Napa","Deer Park CDP","65+",39,24
+"17","Napa","Moskowite Corner CDP","18-64",7,10
+"18","Napa","Moskowite Corner CDP","65+",8,11
+"19","Napa","Oakville CDP","18-64",0,12
+"20","Napa","Oakville CDP","65+",0,12
+"21","Napa","Rutherford CDP","18-64",0,12
+"22","Napa","Rutherford CDP","65+",0,12

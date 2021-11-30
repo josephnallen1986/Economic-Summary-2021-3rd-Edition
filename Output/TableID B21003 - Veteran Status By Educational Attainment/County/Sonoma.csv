@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06097","Sonoma","Less than high school graduate",918,201,25429,1075,0.0361005151598569,0.00775563287704267
+"2","06097","Sonoma","High school graduate (includes equivalency)",4256,446,25429,1075,0.167367965708443,0.0160485568241506
+"3","06097","Sonoma","Some college or associate's degree",10385,672,25429,1075,0.40839199339337,0.0200073675783307
+"4","06097","Sonoma","Bachelor's degree or higher",9870,621,25429,1075,0.38813952573833,0.0180871651984509

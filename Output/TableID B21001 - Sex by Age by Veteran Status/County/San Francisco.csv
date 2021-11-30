@@ -1,0 +1,3 @@
+"","geoid","county","sex","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06075","San Francisco","Male",21881,1037,23619,1034,0.926415174224142,0.0168171446570142
+"2","06075","San Francisco","Female",1738,302,23619,1034,0.0735848257758584,0.0123738569217334

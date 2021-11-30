@@ -1,0 +1,3 @@
+"","geoid","county","sex","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06077","San Joaquin","Male",26579,968,29013,1041,0.91610657291559,0.0057202609958499
+"2","06077","San Joaquin","Female",2434,376,29013,1041,0.0838934270844104,0.0126052810023621

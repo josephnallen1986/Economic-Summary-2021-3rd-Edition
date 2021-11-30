@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06073","San Diego","Less than high school graduate",7164,545,210573,2983,0.0340214557421892,0.00254290739058896
+"2","06073","San Diego","High school graduate (includes equivalency)",35242,1252,210573,2983,0.167362387390596,0.00545253029522359
+"3","06073","San Diego","Some college or associate's degree",86596,2367,210573,2983,0.411239807572671,0.00961333556773247
+"4","06073","San Diego","Bachelor's degree or higher",81571,2004,210573,2983,0.387376349294544,0.007775426985307

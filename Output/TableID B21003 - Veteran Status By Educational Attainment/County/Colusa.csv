@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06011","Colusa","Less than high school graduate",67,57,770,135,0.087012987012987,0.0724369645086122
+"2","06011","Colusa","High school graduate (includes equivalency)",160,56,770,135,0.207792207792208,0.0629446665857817
+"3","06011","Colusa","Some college or associate's degree",345,94,770,135,0.448051948051948,0.093446240146147
+"4","06011","Colusa","Bachelor's degree or higher",198,64,770,135,0.257142857142857,0.0698276118320869

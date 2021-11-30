@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06047","Merced","Less than high school graduate",905,181,9117,554,0.0992651091367775,0.0189145078596034
+"2","06047","Merced","High school graduate (includes equivalency)",2311,340,9117,554,0.253482505210047,0.0339634010521912
+"3","06047","Merced","Some college or associate's degree",4184,410,9117,554,0.458922891301963,0.0352805238145624
+"4","06047","Merced","Bachelor's degree or higher",1717,285,9117,554,0.188329494351212,0.0290902248371441

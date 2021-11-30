@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06075","San Francisco","Less than high school graduate",1086,199,23585,1041,0.0460462158151367,0.00818913193980671
+"2","06075","San Francisco","High school graduate (includes equivalency)",3849,432,23585,1041,0.163196947212211,0.0168409041321745
+"3","06075","San Francisco","Some college or associate's degree",7599,731,23585,1041,0.322196311214755,0.0275391247318281
+"4","06075","San Francisco","Bachelor's degree or higher",11051,744,23585,1041,0.468560525757897,0.0238200630834505

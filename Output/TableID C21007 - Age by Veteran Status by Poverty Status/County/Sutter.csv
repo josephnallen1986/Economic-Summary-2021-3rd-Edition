@@ -1,0 +1,19 @@
+"","county","place","age_group","estimate","moe"
+"1","Sutter","Yuba City city","18-64",2542,361
+"2","Sutter","Yuba City city","65+",1575,201
+"3","Sutter","Live Oak city","18-64",190,75
+"4","Sutter","Live Oak city","65+",121,46
+"5","Sutter","Sutter CDP","18-64",78,49
+"6","Sutter","Sutter CDP","65+",103,45
+"7","Sutter","Robbins CDP","18-64",23,24
+"8","Sutter","Robbins CDP","65+",0,12
+"9","Sutter","Nicolaus CDP","18-64",0,12
+"10","Sutter","Nicolaus CDP","65+",17,11
+"11","Sutter","East Nicolaus CDP","18-64",0,12
+"12","Sutter","East Nicolaus CDP","65+",15,12
+"13","Sutter","Meridian CDP","18-64",2,3
+"14","Sutter","Meridian CDP","65+",13,9
+"15","Sutter","Rio Oso CDP","18-64",0,12
+"16","Sutter","Rio Oso CDP","65+",14,9
+"17","Sutter","Trowbridge CDP","18-64",2,4
+"18","Sutter","Trowbridge CDP","65+",8,8

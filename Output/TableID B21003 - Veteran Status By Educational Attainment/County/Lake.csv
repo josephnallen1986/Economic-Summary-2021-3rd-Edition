@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06033","Lake","Less than high school graduate",497,181,5360,442,0.0927238805970149,0.0328915928439261
+"2","06033","Lake","High school graduate (includes equivalency)",1284,253,5360,442,0.23955223880597,0.0428690517034571
+"3","06033","Lake","Some college or associate's degree",2724,342,5360,442,0.508208955223881,0.0481133894814598
+"4","06033","Lake","Bachelor's degree or higher",855,211,5360,442,0.159514925373134,0.0371029327297235

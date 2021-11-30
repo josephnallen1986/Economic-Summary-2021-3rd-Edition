@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Sacramento","Sacramento city","18-64",10756,657
+"2","Sacramento","Sacramento city","65+",10616,559
+"3","Sacramento","Elk Grove city","18-64",4633,439
+"4","Sacramento","Elk Grove city","65+",3527,356
+"5","Sacramento","Citrus Heights city","18-64",2802,366
+"6","Sacramento","Citrus Heights city","65+",2872,302
+"7","Sacramento","Arden-Arcade CDP","18-64",2092,295
+"8","Sacramento","Arden-Arcade CDP","65+",3094,318
+"9","Sacramento","Rancho Cordova city","18-64",2748,379
+"10","Sacramento","Rancho Cordova city","65+",1985,223
+"11","Sacramento","Carmichael CDP","18-64",1646,275
+"12","Sacramento","Carmichael CDP","65+",2249,269
+"13","Sacramento","Folsom city","18-64",2028,300
+"14","Sacramento","Folsom city","65+",1807,211
+"15","Sacramento","Orangevale CDP","18-64",1118,236
+"16","Sacramento","Orangevale CDP","65+",1227,181
+"17","Sacramento","Antelope CDP","18-64",1564,332
+"18","Sacramento","Antelope CDP","65+",779,161
+"19","Sacramento","Fair Oaks CDP","18-64",782,233
+"20","Sacramento","Fair Oaks CDP","65+",1397,214

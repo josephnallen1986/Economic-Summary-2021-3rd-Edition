@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06099","Stanislaus","Less than high school graduate",1568,230,20727,961,0.0756501182033097,0.010527718919232
+"2","06099","Stanislaus","High school graduate (includes equivalency)",5554,589,20727,961,0.267959666135958,0.0255573086629934
+"3","06099","Stanislaus","Some college or associate's degree",9335,689,20727,961,0.450378733053505,0.0258643579080105
+"4","06099","Stanislaus","Bachelor's degree or higher",4270,531,20727,961,0.206011482607227,0.0237715536850415

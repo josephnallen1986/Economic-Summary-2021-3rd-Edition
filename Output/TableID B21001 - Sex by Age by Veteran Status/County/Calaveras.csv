@@ -1,0 +1,3 @@
+"","geoid","county","sex","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06009","Calaveras","Male",4246,338,4491,363,0.945446448452461,0.107257421327972
+"2","06009","Calaveras","Female",245,111,4491,363,0.0545535515475395,0.0243195826208627

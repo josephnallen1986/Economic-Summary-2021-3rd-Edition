@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06027","Inyo","Less than high school graduate",108,51,1519,154,0.0710994075049375,0.0327918158599833
+"2","06027","Inyo","High school graduate (includes equivalency)",567,111,1519,154,0.373271889400922,0.0625120495659016
+"3","06027","Inyo","Some college or associate's degree",492,115,1519,154,0.323897300855826,0.0682154957318847
+"4","06027","Inyo","Bachelor's degree or higher",352,117,1519,154,0.231731402238315,0.0733539836068274

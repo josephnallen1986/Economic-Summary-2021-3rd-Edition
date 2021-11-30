@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06069","San Benito","Less than high school graduate",98,74,2553,248,0.0383862122992558,0.0287446556824724
+"2","06069","San Benito","High school graduate (includes equivalency)",603,157,2553,248,0.236192714453584,0.0570558452177866
+"3","06069","San Benito","Some college or associate's degree",1127,234,2553,248,0.441441441441441,0.0810069484471127
+"4","06069","San Benito","Bachelor's degree or higher",725,140,2553,248,0.283979631805719,0.047393675376152

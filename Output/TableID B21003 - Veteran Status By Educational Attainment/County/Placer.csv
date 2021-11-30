@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06061","Placer","Less than high school graduate",690,134,25716,853,0.0268315445636958,0.00513419457598793
+"2","06061","Placer","High school graduate (includes equivalency)",4262,491,25716,853,0.165733395551408,0.0182846391734953
+"3","06061","Placer","Some college or associate's degree",10767,614,25716,853,0.418688754083061,0.0194215910908597
+"4","06061","Placer","Bachelor's degree or higher",9997,549,25716,853,0.388746305801835,0.0170143453178612

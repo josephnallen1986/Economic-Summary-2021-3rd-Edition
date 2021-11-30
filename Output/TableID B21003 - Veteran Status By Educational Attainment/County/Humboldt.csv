@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06023","Humboldt","Less than high school graduate",529,169,7922,567,0.0667760666498359,0.0207907320581343
+"2","06023","Humboldt","High school graduate (includes equivalency)",1543,256,7922,567,0.194774046957839,0.0291534813968702
+"3","06023","Humboldt","Some college or associate's degree",3378,396,7922,567,0.426407472860389,0.0395893519300846
+"4","06023","Humboldt","Bachelor's degree or higher",2472,369,7922,567,0.312042413531936,0.0408756658640523

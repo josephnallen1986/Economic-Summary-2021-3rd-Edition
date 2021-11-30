@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Fresno","Fresno city","18-64",9801,682
+"2","Fresno","Fresno city","65+",8841,605
+"3","Fresno","Clovis city","18-64",2943,333
+"4","Fresno","Clovis city","65+",2685,221
+"5","Fresno","Reedley city","18-64",219,83
+"6","Fresno","Reedley city","65+",544,153
+"7","Fresno","Selma city","18-64",393,174
+"8","Fresno","Selma city","65+",259,86
+"9","Fresno","Coalinga city","18-64",323,148
+"10","Fresno","Coalinga city","65+",240,71
+"11","Fresno","Sanger city","18-64",258,132
+"12","Fresno","Sanger city","65+",262,100
+"13","Fresno","Kerman city","18-64",212,85
+"14","Fresno","Kerman city","65+",171,112
+"15","Fresno","Kingsburg city","18-64",140,79
+"16","Fresno","Kingsburg city","65+",216,88
+"17","Fresno","Old Fig Garden CDP","18-64",128,71
+"18","Fresno","Old Fig Garden CDP","65+",210,59
+"19","Fresno","Sunnyside CDP","18-64",91,68
+"20","Fresno","Sunnyside CDP","65+",206,100

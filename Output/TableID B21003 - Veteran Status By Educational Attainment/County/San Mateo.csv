@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06081","San Mateo","Less than high school graduate",1180,250,24773,1001,0.0476325031284059,0.00990639378359904
+"2","06081","San Mateo","High school graduate (includes equivalency)",4630,467,24773,1001,0.186897024986881,0.0172723749261155
+"3","06081","San Mateo","Some college or associate's degree",8750,603,24773,1001,0.353207120655552,0.0197178856397767
+"4","06081","San Mateo","Bachelor's degree or higher",10213,665,24773,1001,0.412263351229161,0.0210496576711056

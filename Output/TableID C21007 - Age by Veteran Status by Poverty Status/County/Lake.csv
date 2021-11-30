@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Lake","Clearlake city","18-64",401,112
+"2","Lake","Clearlake city","65+",693,157
+"3","Lake","Lakeport city","18-64",149,96
+"4","Lake","Lakeport city","65+",269,128
+"5","Lake","Clearlake Oaks CDP","18-64",140,73
+"6","Lake","Clearlake Oaks CDP","65+",200,105
+"7","Lake","Kelseyville CDP","18-64",145,111
+"8","Lake","Kelseyville CDP","65+",170,118
+"9","Lake","Clearlake Riviera CDP","18-64",164,122
+"10","Lake","Clearlake Riviera CDP","65+",138,80
+"11","Lake","Hidden Valley Lake CDP","18-64",143,88
+"12","Lake","Hidden Valley Lake CDP","65+",158,81
+"13","Lake","North Lakeport CDP","18-64",38,35
+"14","Lake","North Lakeport CDP","65+",222,87
+"15","Lake","Lucerne CDP","18-64",62,48
+"16","Lake","Lucerne CDP","65+",170,87
+"17","Lake","Lower Lake CDP","18-64",137,92
+"18","Lake","Lower Lake CDP","65+",82,77
+"19","Lake","Nice CDP","18-64",33,30
+"20","Lake","Nice CDP","65+",121,52

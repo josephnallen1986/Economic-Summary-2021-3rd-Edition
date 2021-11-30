@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06101","Sutter","Less than high school graduate",322,107,5909,471,0.0544931460484007,0.0175793014073017
+"2","06101","Sutter","High school graduate (includes equivalency)",1070,192,5909,471,0.181079708918599,0.0291110250422508
+"3","06101","Sutter","Some college or associate's degree",3196,401,5909,471,0.540869859536301,0.0524087062196483
+"4","06101","Sutter","Bachelor's degree or higher",1321,218,5909,471,0.2235572854967,0.0323040141196256

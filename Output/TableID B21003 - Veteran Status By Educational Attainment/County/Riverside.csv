@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06065","Riverside","Less than high school graduate",6284,572,120559,2460,0.0521238563690807,0.00462381704518227
+"2","06065","Riverside","High school graduate (includes equivalency)",24289,896,120559,2460,0.201469819756302,0.00619153768690322
+"3","06065","Riverside","Some college or associate's degree",53791,1922,120559,2460,0.446179878731575,0.0130871049107016
+"4","06065","Riverside","Bachelor's degree or higher",36195,1229,120559,2460,0.300226445143042,0.00814813613235028

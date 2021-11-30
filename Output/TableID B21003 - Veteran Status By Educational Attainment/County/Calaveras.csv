@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06009","Calaveras","Less than high school graduate",305,161,4491,363,0.0679136049877533,0.0354267144580717
+"2","06009","Calaveras","High school graduate (includes equivalency)",1059,243,4491,363,0.235804943219773,0.0506401641790876
+"3","06009","Calaveras","Some college or associate's degree",2403,303,4491,363,0.535070140280561,0.051783267663006
+"4","06009","Calaveras","Bachelor's degree or higher",724,205,4491,363,0.161211311511913,0.0437474854134991

@@ -1,0 +1,21 @@
+"","cbsa","place","age_group","estimate","moe"
+"1","Fresno, CA Metro Area","Fresno city","18-64",9801,682
+"2","Fresno, CA Metro Area","Fresno city","65+",8841,605
+"3","Fresno, CA Metro Area","Clovis city","18-64",2943,333
+"4","Fresno, CA Metro Area","Clovis city","65+",2685,221
+"5","Fresno, CA Metro Area","Reedley city","18-64",219,83
+"6","Fresno, CA Metro Area","Reedley city","65+",544,153
+"7","Fresno, CA Metro Area","Selma city","18-64",393,174
+"8","Fresno, CA Metro Area","Selma city","65+",259,86
+"9","Fresno, CA Metro Area","Coalinga city","18-64",323,148
+"10","Fresno, CA Metro Area","Coalinga city","65+",240,71
+"11","Fresno, CA Metro Area","Sanger city","18-64",258,132
+"12","Fresno, CA Metro Area","Sanger city","65+",262,100
+"13","Fresno, CA Metro Area","Kerman city","18-64",212,85
+"14","Fresno, CA Metro Area","Kerman city","65+",171,112
+"15","Fresno, CA Metro Area","Kingsburg city","18-64",140,79
+"16","Fresno, CA Metro Area","Kingsburg city","65+",216,88
+"17","Fresno, CA Metro Area","Old Fig Garden CDP","18-64",128,71
+"18","Fresno, CA Metro Area","Old Fig Garden CDP","65+",210,59
+"19","Fresno, CA Metro Area","Sunnyside CDP","18-64",91,68
+"20","Fresno, CA Metro Area","Sunnyside CDP","65+",206,100

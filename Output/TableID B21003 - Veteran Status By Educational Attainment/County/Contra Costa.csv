@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06013","Contra Costa","Less than high school graduate",1908,272,46729,1221,0.0408311755012947,0.00572218579659036
+"2","06013","Contra Costa","High school graduate (includes equivalency)",8399,739,46729,1221,0.179738492156905,0.0151011447503816
+"3","06013","Contra Costa","Some college or associate's degree",17945,942,46729,1221,0.384022769586338,0.0174839922234188
+"4","06013","Contra Costa","Bachelor's degree or higher",18477,939,46729,1221,0.395407562755462,0.0172350595887448

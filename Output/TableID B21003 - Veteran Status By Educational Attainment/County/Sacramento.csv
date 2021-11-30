@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06067","Sacramento","Less than high school graduate",3529,345,76691,1528,0.046015829758381,0.00440415537897945
+"2","06067","Sacramento","High school graduate (includes equivalency)",15115,790,76691,1528,0.197089619381675,0.00952324411622485
+"3","06067","Sacramento","Some college or associate's degree",33693,1156,76691,1528,0.439334472102333,0.0122714540237185
+"4","06067","Sacramento","Bachelor's degree or higher",24354,930,76691,1528,0.317560078757612,0.010345137150603

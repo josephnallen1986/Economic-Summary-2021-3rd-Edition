@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06051","Mono","Less than high school graduate",32,36,705,234,0.0453900709219858,0.0487907899814721
+"2","06051","Mono","High school graduate (includes equivalency)",228,126,705,234,0.323404255319149,0.142897174034187
+"3","06051","Mono","Some college or associate's degree",291,140,705,234,0.412765957446808,0.143752453225949
+"4","06051","Mono","Bachelor's degree or higher",154,100,705,234,0.218439716312057,0.121913780896078

@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Los Angeles","Los Angeles city","18-64",39805,1481
+"2","Los Angeles","Los Angeles city","65+",43086,1208
+"3","Los Angeles","Long Beach city","18-64",8702,626
+"4","Los Angeles","Long Beach city","65+",7696,522
+"5","Los Angeles","Santa Clarita city","18-64",4165,474
+"6","Los Angeles","Santa Clarita city","65+",3940,364
+"7","Los Angeles","Lancaster city","18-64",4576,484
+"8","Los Angeles","Lancaster city","65+",2710,311
+"9","Los Angeles","Torrance city","18-64",2244,315
+"10","Los Angeles","Torrance city","65+",3951,353
+"11","Los Angeles","Palmdale city","18-64",3369,428
+"12","Los Angeles","Palmdale city","65+",2260,278
+"13","Los Angeles","Inglewood city","18-64",2285,852
+"14","Los Angeles","Inglewood city","65+",1970,429
+"15","Los Angeles","Pasadena city","18-64",1430,263
+"16","Los Angeles","Pasadena city","65+",2473,305
+"17","Los Angeles","Carson city","18-64",1760,264
+"18","Los Angeles","Carson city","65+",2079,258
+"19","Los Angeles","Lakewood city","18-64",1887,296
+"20","Los Angeles","Lakewood city","65+",1848,221

@@ -1,0 +1,3 @@
+"","geoid","county","sex","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06045","Mendocino","Male",5450,428,5941,488,0.917353980811311,0.104249702362633
+"2","06045","Mendocino","Female",491,178,5941,488,0.0826460191886888,0.0291820689001546

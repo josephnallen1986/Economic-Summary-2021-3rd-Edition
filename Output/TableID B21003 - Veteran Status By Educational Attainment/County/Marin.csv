@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06041","Marin","Less than high school graduate",293,120,10427,534,0.0281001246763211,0.0114182526274509
+"2","06041","Marin","High school graduate (includes equivalency)",1118,182,10427,534,0.107221636136952,0.0165684386336773
+"3","06041","Marin","Some college or associate's degree",2923,314,10427,534,0.280329912726575,0.0264716627660995
+"4","06041","Marin","Bachelor's degree or higher",6093,497,10427,534,0.584348326460152,0.0370990436984772

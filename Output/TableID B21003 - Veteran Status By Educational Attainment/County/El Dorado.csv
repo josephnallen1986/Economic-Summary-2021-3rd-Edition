@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06017","El Dorado","Less than high school graduate",517,200,13540,722,0.0381831610044313,0.0146300493417373
+"2","06017","El Dorado","High school graduate (includes equivalency)",2607,367,13540,722,0.192540620384047,0.0250851394645252
+"3","06017","El Dorado","Some college or associate's degree",6186,559,13540,722,0.456868537666174,0.0333310592448656
+"4","06017","El Dorado","Bachelor's degree or higher",4230,415,13540,722,0.312407680945347,0.0257275494380621

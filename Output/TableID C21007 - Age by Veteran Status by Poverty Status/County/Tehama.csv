@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Tehama","Red Bluff city","18-64",327,151
+"2","Tehama","Red Bluff city","65+",362,112
+"3","Tehama","Corning city","18-64",199,111
+"4","Tehama","Corning city","65+",233,124
+"5","Tehama","Lake California CDP","18-64",126,75
+"6","Tehama","Lake California CDP","65+",101,63
+"7","Tehama","Los Molinos CDP","18-64",52,45
+"8","Tehama","Los Molinos CDP","65+",112,63
+"9","Tehama","Rancho Tehama Reserve CDP","18-64",6,14
+"10","Tehama","Rancho Tehama Reserve CDP","65+",93,53
+"11","Tehama","Bend CDP","18-64",0,12
+"12","Tehama","Bend CDP","65+",97,43
+"13","Tehama","Tehama city","18-64",18,18
+"14","Tehama","Tehama city","65+",36,18
+"15","Tehama","Mineral CDP","18-64",22,23
+"16","Tehama","Mineral CDP","65+",19,21
+"17","Tehama","Gerber CDP","18-64",15,23
+"18","Tehama","Gerber CDP","65+",23,21
+"19","Tehama","Manton CDP","18-64",0,12
+"20","Tehama","Manton CDP","65+",27,22

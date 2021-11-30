@@ -1,0 +1,21 @@
+"","place","age_group","estimate","moe"
+"1","San Diego city","18-64",51634,1500
+"2","San Diego city","65+",33244,1037
+"3","Los Angeles city","18-64",39805,1481
+"4","Los Angeles city","65+",43086,1208
+"5","San Jose city","18-64",11812,620
+"6","San Jose city","65+",14269,712
+"7","San Francisco city","18-64",10433,728
+"8","San Francisco city","65+",12704,622
+"9","Sacramento city","18-64",10756,657
+"10","Sacramento city","65+",10616,559
+"11","Fresno city","18-64",9801,682
+"12","Fresno city","65+",8841,605
+"13","Long Beach city","18-64",8702,626
+"14","Long Beach city","65+",7696,522
+"15","Chula Vista city","18-64",10840,985
+"16","Chula Vista city","65+",5144,575
+"17","Oceanside city","18-64",9300,796
+"18","Oceanside city","65+",6355,415
+"19","Bakersfield city","18-64",7005,649
+"20","Bakersfield city","65+",5940,513

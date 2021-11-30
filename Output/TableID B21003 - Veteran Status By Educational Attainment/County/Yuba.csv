@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06115","Yuba","Less than high school graduate",344,123,5548,492,0.0620043258832012,0.0214774583801551
+"2","06115","Yuba","High school graduate (includes equivalency)",1227,226,5548,492,0.221160778658976,0.0357031641468902
+"3","06115","Yuba","Some college or associate's degree",2811,361,5548,492,0.506669069935112,0.0470643106950812
+"4","06115","Yuba","Bachelor's degree or higher",1166,256,5548,492,0.210165825522711,0.0422112829454888

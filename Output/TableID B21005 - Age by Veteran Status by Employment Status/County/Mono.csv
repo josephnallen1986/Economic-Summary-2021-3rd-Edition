@@ -1,0 +1,7 @@
+"","geoid","county","age_group","estimate","moe"
+"1","06051","Mono","18-34 (Employed)",1,2
+"2","06051","Mono","18-34 (Unemployed)",0,19
+"3","06051","Mono","35-54 (Employed)",295,176
+"4","06051","Mono","35-54 (Unmployed)",1,2
+"5","06051","Mono","55-64 (Employed)",108,93
+"6","06051","Mono","55-64 (Unemployed)",0,19

@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Santa Barbara","Santa Barbara city","18-64",984,232
+"2","Santa Barbara","Santa Barbara city","65+",2471,363
+"3","Santa Barbara","Santa Maria city","18-64",1784,383
+"4","Santa Barbara","Santa Maria city","65+",1468,191
+"5","Santa Barbara","Orcutt CDP","18-64",1331,234
+"6","Santa Barbara","Orcutt CDP","65+",1452,185
+"7","Santa Barbara","Lompoc city","18-64",1368,247
+"8","Santa Barbara","Lompoc city","65+",981,144
+"9","Santa Barbara","Goleta city","18-64",508,177
+"10","Santa Barbara","Goleta city","65+",842,163
+"11","Santa Barbara","Vandenberg Village CDP","18-64",679,217
+"12","Santa Barbara","Vandenberg Village CDP","65+",379,108
+"13","Santa Barbara","Carpinteria city","18-64",300,127
+"14","Santa Barbara","Carpinteria city","65+",425,107
+"15","Santa Barbara","Vandenberg AFB CDP","18-64",478,131
+"16","Santa Barbara","Vandenberg AFB CDP","65+",0,12
+"17","Santa Barbara","Mission Hills CDP","18-64",259,94
+"18","Santa Barbara","Mission Hills CDP","65+",201,75
+"19","Santa Barbara","Montecito CDP","18-64",39,28
+"20","Santa Barbara","Montecito CDP","65+",378,100

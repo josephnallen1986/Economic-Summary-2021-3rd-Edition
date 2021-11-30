@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06039","Madera","Less than high school graduate",515,161,6235,473,0.082598235765838,0.0250501617626532
+"2","06039","Madera","High school graduate (includes equivalency)",1542,295,6235,473,0.247313552526063,0.0434346658633538
+"3","06039","Madera","Some college or associate's degree",2838,332,6235,473,0.455172413793103,0.0405337460596092
+"4","06039","Madera","Bachelor's degree or higher",1340,256,6235,473,0.214915797914996,0.0376826847661976

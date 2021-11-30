@@ -1,0 +1,3 @@
+"","geoid","county","sex","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06067","Sacramento","Male",70464,1425,77463,1567,0.909647186398668,0.0260195101048994
+"2","06067","Sacramento","Female",6999,546,77463,1567,0.0903528136013323,0.0068074268875337

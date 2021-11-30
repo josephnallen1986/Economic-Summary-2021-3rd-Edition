@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06003","Alpine","Less than high school graduate",6,7,79,29,0.0759493670886076,0.0841070939976989
+"2","06003","Alpine","High school graduate (includes equivalency)",39,29,79,29,0.493670886075949,0.319238171499575
+"3","06003","Alpine","Some college or associate's degree",13,10,79,29,0.164556962025316,0.111238793865272
+"4","06003","Alpine","Bachelor's degree or higher",21,16,79,29,0.265822784810127,0.177474252683155

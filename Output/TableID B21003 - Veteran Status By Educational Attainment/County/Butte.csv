@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06007","Butte","Less than high school graduate",840,133,14067,762,0.0597142247814033,0.00888421001027525
+"2","06007","Butte","High school graduate (includes equivalency)",2976,341,14067,762,0.211558967796972,0.0213611957185289
+"3","06007","Butte","Some college or associate's degree",6379,513,14067,762,0.45347266652449,0.0269542890141915
+"4","06007","Butte","Bachelor's degree or higher",3872,418,14067,762,0.275254140897135,0.0257032949089146

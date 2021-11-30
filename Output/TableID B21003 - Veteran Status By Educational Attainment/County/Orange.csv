@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06059","Orange","Less than high school graduate",5255,566,106126,2179,0.0495166123287413,0.00523548090211592
+"2","06059","Orange","High school graduate (includes equivalency)",16920,863,106126,2179,0.159433126660762,0.00744385594538669
+"3","06059","Orange","Some college or associate's degree",39920,1407,106126,2179,0.37615664398922,0.010775909649214
+"4","06059","Orange","Bachelor's degree or higher",44031,1379,106126,2179,0.414893617021277,0.00981202636103429

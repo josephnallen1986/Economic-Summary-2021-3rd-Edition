@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","San Mateo","Daly City city","18-64",1580,368
+"2","San Mateo","Daly City city","65+",1526,270
+"3","San Mateo","San Mateo city","18-64",882,190
+"4","San Mateo","San Mateo city","65+",1785,199
+"5","San Mateo","Redwood City city","18-64",1246,232
+"6","San Mateo","Redwood City city","65+",1312,182
+"7","San Mateo","South San Francisco city","18-64",1131,288
+"8","San Mateo","South San Francisco city","65+",1219,213
+"9","San Mateo","Pacifica city","18-64",858,194
+"10","San Mateo","Pacifica city","65+",1114,153
+"11","San Mateo","San Bruno city","18-64",602,181
+"12","San Mateo","San Bruno city","65+",857,170
+"13","San Mateo","Burlingame city","18-64",590,205
+"14","San Mateo","Burlingame city","65+",573,166
+"15","San Mateo","Foster City city","18-64",357,121
+"16","San Mateo","Foster City city","65+",672,136
+"17","San Mateo","Menlo Park city","18-64",517,291
+"18","San Mateo","Menlo Park city","65+",503,127
+"19","San Mateo","San Carlos city","18-64",293,88
+"20","San Mateo","San Carlos city","65+",621,112

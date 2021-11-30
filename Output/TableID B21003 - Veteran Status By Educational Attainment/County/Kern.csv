@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06029","Kern","Less than high school graduate",2604,361,35196,1095,0.0739856801909308,0.00999522950545519
+"2","06029","Kern","High school graduate (includes equivalency)",8382,644,35196,1095,0.238152062734402,0.016730287751172
+"3","06029","Kern","Some college or associate's degree",16258,935,35196,1095,0.461927491760427,0.0223426473537038
+"4","06029","Kern","Bachelor's degree or higher",7952,675,35196,1095,0.22593476531424,0.0178437272603695

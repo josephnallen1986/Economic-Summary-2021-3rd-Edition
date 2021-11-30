@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Alameda","Oakland city","18-64",5598,509
+"2","Alameda","Oakland city","65+",5751,438
+"3","Alameda","Fremont city","18-64",2185,340
+"4","Alameda","Fremont city","65+",2759,288
+"5","Alameda","Hayward city","18-64",2335,330
+"6","Alameda","Hayward city","65+",1989,214
+"7","Alameda","Livermore city","18-64",2015,299
+"8","Alameda","Livermore city","65+",2067,258
+"9","Alameda","San Leandro city","18-64",1623,342
+"10","Alameda","San Leandro city","65+",1823,248
+"11","Alameda","Berkeley city","18-64",1224,240
+"12","Alameda","Berkeley city","65+",1803,255
+"13","Alameda","Alameda city","18-64",1617,268
+"14","Alameda","Alameda city","65+",1397,215
+"15","Alameda","Castro Valley CDP","18-64",1221,241
+"16","Alameda","Castro Valley CDP","65+",1688,290
+"17","Alameda","Pleasanton city","18-64",910,226
+"18","Alameda","Pleasanton city","65+",1740,208
+"19","Alameda","Union City city","18-64",792,141
+"20","Alameda","Union City city","65+",1207,192

@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06103","Tehama","Less than high school graduate",354,158,4348,372,0.0814167433302668,0.0356646667415186
+"2","06103","Tehama","High school graduate (includes equivalency)",1328,266,4348,372,0.305427782888684,0.0553158677056467
+"3","06103","Tehama","Some college or associate's degree",2079,297,4348,372,0.478150873965041,0.0547022891106198
+"4","06103","Tehama","Bachelor's degree or higher",587,139,4348,372,0.135004599816007,0.0298091321510772

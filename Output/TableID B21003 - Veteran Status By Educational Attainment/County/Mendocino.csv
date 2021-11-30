@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06045","Mendocino","Less than high school graduate",302,95,5925,486,0.0509704641350211,0.0154790712639341
+"2","06045","Mendocino","High school graduate (includes equivalency)",1359,337,5925,486,0.229367088607595,0.0536759021378651
+"3","06045","Mendocino","Some college or associate's degree",2655,348,5925,486,0.448101265822785,0.0458118533072554
+"4","06045","Mendocino","Bachelor's degree or higher",1609,257,5925,486,0.271561181434599,0.0372191559929064

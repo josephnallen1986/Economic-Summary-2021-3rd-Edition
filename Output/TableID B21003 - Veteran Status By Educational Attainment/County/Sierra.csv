@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06091","Sierra","Less than high school graduate",2,4,282,90,0.00709219858156028,0.014002636793053
+"2","06091","Sierra","High school graduate (includes equivalency)",113,74,282,90,0.400709219858156,0.229139491264352
+"3","06091","Sierra","Some college or associate's degree",128,65,282,90,0.453900709219858,0.179286466135827
+"4","06091","Sierra","Bachelor's degree or higher",39,35,282,90,0.138297872340426,0.116000109156949

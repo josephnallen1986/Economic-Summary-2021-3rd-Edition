@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06053","Monterey","Less than high school graduate",935,227,16732,897,0.0558809466889792,0.0132319280498004
+"2","06053","Monterey","High school graduate (includes equivalency)",2793,360,16732,897,0.16692565144633,0.0195663355735158
+"3","06053","Monterey","Some college or associate's degree",6310,637,16732,897,0.37712168300263,0.0322589246869488
+"4","06053","Monterey","Bachelor's degree or higher",6694,545,16732,897,0.400071718862061,0.0245142476828998

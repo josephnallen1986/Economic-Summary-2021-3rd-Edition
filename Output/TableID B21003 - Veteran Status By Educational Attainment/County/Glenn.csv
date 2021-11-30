@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06021","Glenn","Less than high school graduate",96,62,1392,216,0.0689655172413793,0.0432355061975371
+"2","06021","Glenn","High school graduate (includes equivalency)",565,154,1392,216,0.405890804597701,0.0909539157350775
+"3","06021","Glenn","Some college or associate's degree",577,155,1392,216,0.414511494252874,0.090894398743792
+"4","06021","Glenn","Bachelor's degree or higher",154,66,1392,216,0.110632183908046,0.044196829340085

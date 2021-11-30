@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06071","San Bernardino","Less than high school graduate",5237,428,89141,2092,0.058749621386343,0.00459916141331907
+"2","06071","San Bernardino","High school graduate (includes equivalency)",20653,953,89141,2092,0.231689121728498,0.00920493447029735
+"3","06071","San Bernardino","Some college or associate's degree",41630,1553,89141,2092,0.467012934564342,0.0135424301350667
+"4","06071","San Bernardino","Bachelor's degree or higher",21621,1051,89141,2092,0.242548322320818,0.0103252079506889

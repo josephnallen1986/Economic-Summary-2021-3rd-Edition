@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06001","Alameda","Less than high school graduate",2334,326,48161,1210,0.0484624488694172,0.00665855592246293
+"2","06001","Alameda","High school graduate (includes equivalency)",9902,670,48161,1210,0.205602043146945,0.0129171049734466
+"3","06001","Alameda","Some college or associate's degree",18382,921,48161,1210,0.381678121301468,0.0165453320278477
+"4","06001","Alameda","Bachelor's degree or higher",17543,834,48161,1210,0.36425738668217,0.014701133825667

@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06105","Trinity","Less than high school graduate",20,21,1150,182,0.0173913043478261,0.0180522534735992
+"2","06105","Trinity","High school graduate (includes equivalency)",369,117,1150,182,0.320869565217391,0.0881596898202056
+"3","06105","Trinity","Some college or associate's degree",548,170,1150,182,0.476521739130435,0.127142314952182
+"4","06105","Trinity","Bachelor's degree or higher",213,73,1150,182,0.185217391304348,0.0563050375170412

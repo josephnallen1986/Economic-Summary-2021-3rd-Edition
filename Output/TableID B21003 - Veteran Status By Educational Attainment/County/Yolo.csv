@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06113","Yolo","Less than high school graduate",407,142,7550,500,0.0539072847682119,0.018466018424387
+"2","06113","Yolo","High school graduate (includes equivalency)",1262,225,7550,500,0.167152317880795,0.0276691327492663
+"3","06113","Yolo","Some college or associate's degree",2611,332,7550,500,0.345827814569536,0.0375385784730552
+"4","06113","Yolo","Bachelor's degree or higher",3270,315,7550,500,0.433112582781457,0.0302985372977061

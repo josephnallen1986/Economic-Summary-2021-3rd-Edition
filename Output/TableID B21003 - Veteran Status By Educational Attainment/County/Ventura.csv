@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06111","Ventura","Less than high school graduate",1538,208,39238,964,0.0391966970793618,0.00521278121410522
+"2","06111","Ventura","High school graduate (includes equivalency)",6029,542,39238,964,0.153652071971048,0.0132873161123775
+"3","06111","Ventura","Some college or associate's degree",17047,753,39238,964,0.434451297211886,0.0159484313868989
+"4","06111","Ventura","Bachelor's degree or higher",14624,651,39238,964,0.372699933737703,0.0138355258073288

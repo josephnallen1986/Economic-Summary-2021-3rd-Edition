@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06025","Imperial","Less than high school graduate",499,170,5440,512,0.0917279411764706,0.0300338150604276
+"2","06025","Imperial","High school graduate (includes equivalency)",1233,272,5440,512,0.226654411764706,0.0452209918002707
+"3","06025","Imperial","Some college or associate's degree",2594,357,5440,512,0.476838235294118,0.0478803259388369
+"4","06025","Imperial","Bachelor's degree or higher",1114,221,5440,512,0.204779411764706,0.0357621078520999

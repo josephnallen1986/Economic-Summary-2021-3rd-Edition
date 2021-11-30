@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06049","Modoc","Less than high school graduate",39,34,780,152,0.05,0.0424868003635035
+"2","06049","Modoc","High school graduate (includes equivalency)",277,93,780,152,0.355128205128205,0.0970912846786547
+"3","06049","Modoc","Some college or associate's degree",287,108,780,152,0.367948717948718,0.118449576701668
+"4","06049","Modoc","Bachelor's degree or higher",177,77,780,152,0.226923076923077,0.0882595306855653

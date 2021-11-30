@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Merced","Merced city","18-64",1425,257
+"2","Merced","Merced city","65+",1477,222
+"3","Merced","Atwater city","18-64",653,190
+"4","Merced","Atwater city","65+",722,112
+"5","Merced","Los Banos city","18-64",734,206
+"6","Merced","Los Banos city","65+",542,157
+"7","Merced","McSwain CDP","18-64",66,52
+"8","Merced","McSwain CDP","65+",293,89
+"9","Merced","Delhi CDP","18-64",245,146
+"10","Merced","Delhi CDP","65+",83,54
+"11","Merced","Winton CDP","18-64",102,88
+"12","Merced","Winton CDP","65+",219,92
+"13","Merced","Gustine city","18-64",53,53
+"14","Merced","Gustine city","65+",167,109
+"15","Merced","Livingston city","18-64",51,50
+"16","Merced","Livingston city","65+",142,95
+"17","Merced","Dos Palos city","18-64",103,84
+"18","Merced","Dos Palos city","65+",74,65
+"19","Merced","Hilmar-Irwin CDP","18-64",41,42
+"20","Merced","Hilmar-Irwin CDP","65+",81,58

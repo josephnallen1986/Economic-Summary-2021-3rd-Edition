@@ -1,0 +1,5 @@
+"","geoid","cbsa","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","41860","San Francisco-Oakland-Berkeley, CA Metro Area","Less than high school graduate",6801,534,153675,2602,0.0442557345046364,0.00339311000349087
+"2","41860","San Francisco-Oakland-Berkeley, CA Metro Area","High school graduate (includes equivalency)",27898,1285,153675,2602,0.181538962095331,0.00777634670842089
+"3","41860","San Francisco-Oakland-Berkeley, CA Metro Area","Some college or associate's degree",55599,1769,153675,2602,0.361795998047828,0.00974596742169457
+"4","41860","San Francisco-Oakland-Berkeley, CA Metro Area","Bachelor's degree or higher",63377,1646,153675,2602,0.412409305352204,0.00812179580385528

@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06035","Lassen","Less than high school graduate",55,40,1977,239,0.0278199291856348,0.019951198914483
+"2","06035","Lassen","High school graduate (includes equivalency)",539,146,1977,239,0.272635306019221,0.0660864735599872
+"3","06035","Lassen","Some college or associate's degree",995,180,1977,239,0.503287809812848,0.0677328854125409
+"4","06035","Lassen","Bachelor's degree or higher",388,103,1977,239,0.196256954982296,0.0463833879762354

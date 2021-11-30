@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Santa Cruz","Santa Cruz city","18-64",698,199
+"2","Santa Cruz","Santa Cruz city","65+",1437,240
+"3","Santa Cruz","Watsonville city","18-64",477,208
+"4","Santa Cruz","Watsonville city","65+",597,192
+"5","Santa Cruz","Live Oak CDP","18-64",218,91
+"6","Santa Cruz","Live Oak CDP","65+",498,121
+"7","Santa Cruz","Scotts Valley city","18-64",260,111
+"8","Santa Cruz","Scotts Valley city","65+",374,130
+"9","Santa Cruz","Rio del Mar CDP","18-64",155,63
+"10","Santa Cruz","Rio del Mar CDP","65+",381,135
+"11","Santa Cruz","Capitola city","18-64",204,106
+"12","Santa Cruz","Capitola city","65+",208,107
+"13","Santa Cruz","Soquel CDP","18-64",166,84
+"14","Santa Cruz","Soquel CDP","65+",180,68
+"15","Santa Cruz","Ben Lomond CDP","18-64",77,45
+"16","Santa Cruz","Ben Lomond CDP","65+",232,83
+"17","Santa Cruz","Aptos CDP","18-64",126,84
+"18","Santa Cruz","Aptos CDP","65+",127,59
+"19","Santa Cruz","Boulder Creek CDP","18-64",58,59
+"20","Santa Cruz","Boulder Creek CDP","65+",176,87

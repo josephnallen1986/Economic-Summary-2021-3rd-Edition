@@ -1,0 +1,5 @@
+"","geoid","state","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06","California","Less than high school graduate",79633,1765,1549576,8657,0.051390186734952,0.00110224426723034
+"2","06","California","High school graduate (includes equivalency)",301848,3300,1549576,8657,0.194793930726857,0.00183056389948539
+"3","06","California","Some college or associate's degree",652100,5664,1549576,8657,0.42082479336283,0.00279877756017876
+"4","06","California","Bachelor's degree or higher",515995,4587,1549576,8657,0.332991089175362,0.00230256204256578

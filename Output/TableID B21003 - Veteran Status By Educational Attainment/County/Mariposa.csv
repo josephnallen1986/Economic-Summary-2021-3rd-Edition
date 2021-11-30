@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06043","Mariposa","Less than high school graduate",112,55,1485,191,0.0754208754208754,0.0357440977183455
+"2","06043","Mariposa","High school graduate (includes equivalency)",415,121,1485,191,0.279461279461279,0.0731248787352227
+"3","06043","Mariposa","Some college or associate's degree",684,173,1485,191,0.460606060606061,0.100310181294208
+"4","06043","Mariposa","Bachelor's degree or higher",274,89,1485,191,0.184511784511785,0.0550338487249884

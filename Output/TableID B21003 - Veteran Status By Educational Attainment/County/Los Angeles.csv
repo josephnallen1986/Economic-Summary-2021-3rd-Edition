@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06037","Los Angeles","Less than high school graduate",15896,735,257763,2918,0.0616690525793073,0.00276467516372633
+"2","06037","Los Angeles","High school graduate (includes equivalency)",51484,1274,257763,2918,0.199733864053413,0.00439500357663164
+"3","06037","Los Angeles","Some college or associate's degree",105694,2162,257763,2918,0.410043334380807,0.0069859778468033
+"4","06037","Los Angeles","Bachelor's degree or higher",84689,1944,257763,2918,0.328553748986472,0.00656087633558063

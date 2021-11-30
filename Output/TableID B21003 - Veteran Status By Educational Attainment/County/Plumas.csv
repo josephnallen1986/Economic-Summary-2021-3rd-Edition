@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06063","Plumas","Less than high school graduate",44,36,1876,226,0.023454157782516,0.018980612295244
+"2","06063","Plumas","High school graduate (includes equivalency)",486,122,1876,226,0.259061833688699,0.0570540162526922
+"3","06063","Plumas","Some college or associate's degree",806,191,1876,226,0.429637526652452,0.0876747593516499
+"4","06063","Plumas","Bachelor's degree or higher",540,163,1876,226,0.287846481876333,0.0796673267264123

@@ -1,0 +1,21 @@
+"","county","place","age_group","estimate","moe"
+"1","Contra Costa","Antioch city","18-64",3234,458
+"2","Contra Costa","Antioch city","65+",2346,317
+"3","Contra Costa","Concord city","18-64",2272,384
+"4","Contra Costa","Concord city","65+",3167,298
+"5","Contra Costa","Walnut Creek city","18-64",820,188
+"6","Contra Costa","Walnut Creek city","65+",3030,314
+"7","Contra Costa","Brentwood city","18-64",1999,357
+"8","Contra Costa","Brentwood city","65+",1847,311
+"9","Contra Costa","Richmond city","18-64",1314,278
+"10","Contra Costa","Richmond city","65+",1896,255
+"11","Contra Costa","Pittsburg city","18-64",1155,223
+"12","Contra Costa","Pittsburg city","65+",1084,201
+"13","Contra Costa","San Ramon city","18-64",1028,191
+"14","Contra Costa","San Ramon city","65+",951,181
+"15","Contra Costa","Martinez city","18-64",1045,219
+"16","Contra Costa","Martinez city","65+",899,173
+"17","Contra Costa","Danville town","18-64",608,169
+"18","Contra Costa","Danville town","65+",1304,282
+"19","Contra Costa","Oakley city","18-64",953,253
+"20","Contra Costa","Oakley city","65+",696,176

@@ -1,0 +1,3 @@
+"","geoid","county","sex","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06071","San Bernardino","Male",82829,1944,90686,2172,0.913360386388197,0.0306279910277915
+"2","06071","San Bernardino","Female",7857,805,90686,2172,0.0866396136118034,0.00863083460797619

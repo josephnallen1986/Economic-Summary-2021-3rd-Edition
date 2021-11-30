@@ -1,0 +1,5 @@
+"","geoid","county","education","estimate","moe","summary_est","summary_moe","prop","prop_moe"
+"1","06085","Santa Clara","Less than high school graduate",2459,262,50998,1234,0.0482175771598886,0.00500322072879643
+"2","06085","Santa Clara","High school graduate (includes equivalency)",8049,586,50998,1234,0.157829718812502,0.0108374408356372
+"3","06085","Santa Clara","Some college or associate's degree",18525,760,50998,1234,0.363249539197616,0.0120345130955365
+"4","06085","Santa Clara","Bachelor's degree or higher",21965,752,50998,1234,0.430703164829993,0.010431796732111
